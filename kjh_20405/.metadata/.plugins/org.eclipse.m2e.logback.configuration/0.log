@@ -1,0 +1,12 @@
+2020-12-07 09:18:10,345 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-07 13:31:06,534 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @15185734ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-12-07 13:31:06,718 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-22T06:27:37+09:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2020-12-07 13:31:06,737 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-12-07 13:31:06,737 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-12-07 13:31:06,738 [main] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2020-12-07 13:31:06,759 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4f4d5ad4{/wse,null,AVAILABLE}
+2020-12-07 13:31:06,776 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@45ffca65{HTTP/1.1,[http/1.1]}{0.0.0.0:55582}
+2020-12-07 13:31:06,777 [main] INFO  org.eclipse.jetty.server.Server - Started @15185978ms
+2020-12-07 15:31:27,762 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@45ffca65{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2020-12-07 15:31:27,764 [Framework stop] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2020-12-07 15:31:27,789 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4f4d5ad4{/wse,null,UNAVAILABLE}

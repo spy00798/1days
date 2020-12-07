@@ -1,0 +1,7 @@
+챔피언분석
+
+-변수명: getChampionAnalizeInfo
+-
+-
+-
+-
