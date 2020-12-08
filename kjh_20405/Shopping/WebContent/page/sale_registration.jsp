@@ -17,7 +17,7 @@
 
             
 
-<form action="action/sale_insert.jsp" method="post" name="action_form">
+<form action="action/sale_insert.jsp" method="get" name="action_form">
 <table border="1">
 	<tr>
 		<td>판매한 상품</td>
