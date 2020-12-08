@@ -22,7 +22,6 @@
             "SALE, PRODUCT "+
             "WHERE "+
             "SALE.PRODUCT_ID = PRODUCT.PRODUCT_ID";
-            out.println(query);
             ResultSet rs = stmt.executeQuery(query);
 
             while (rs.next()) {
